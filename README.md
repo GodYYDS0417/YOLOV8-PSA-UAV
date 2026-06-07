@@ -209,20 +209,6 @@ YOLOv8-PSA-UAV/
 
 ---
 
-## 📝 Citation
-
-If you find this work useful in your research, please consider citing:
-
-```bibtex
-@article{YOLOv8-PSA,
-  title={YOLOv8-PSA: Partial Self-Attention Enhanced YOLOv8 for UAV Detection in Complex Urban Environments},
-  author={Your Name},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2024}
-}
-```
-
----
 
 ## 📄 License
 
