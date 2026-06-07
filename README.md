@@ -222,4 +222,4 @@ This project is licensed under the AGPL-3.0 License - see the [LICENSE](LICENSE)
 
 ---
 
-*Built with ❤️ for UAV detection research | GitHub: [GodYYDS0417](https://github.com/GodYYDS0417)*
+*Built with ❤️ for UAV detection research | GitHub: [GodYYDS0417](https://github.com/GodYYDS0417) | 2026*
