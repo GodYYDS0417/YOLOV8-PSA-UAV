@@ -8,7 +8,7 @@
 
 ## 🌟 Abstract
 
-This research proposes a Partial Self-Attention (PSA) mechanism-enhanced YOLOv8 model for UAV detection in complex urban environments. The proposed YOLOv8-PSA achieves state-of-the-art performance with an mAP50 of **0.979** and a real-time inference speed of **666.7 FPS**, demonstrating superior accuracy-efficiency trade-off compared to baseline YOLOv8 and other SOTA models.
+This research proposes a **Partial Self-Attention (PSA)** mechanism-enhanced YOLOv8 model for UAV detection in complex urban environments. The proposed YOLOv8-PSA achieves state-of-the-art performance with an mAP50 of **0.979** and a real-time inference speed of **666.7 FPS** (1.5ms latency), demonstrating superior accuracy-efficiency trade-off compared to baseline YOLOv8 and other SOTA models.
 
 ---
 
